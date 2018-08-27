@@ -1,3 +1,6 @@
 [submodule "etabs"]
 	path = etabs
 	url = https://github.com/mincrmatt12/DaddyExcel.git
+[submodule "calendar"]
+	path = calendar
+	url = https://github.com/mincrmatt12/crappycalendar.git
