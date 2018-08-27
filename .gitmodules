@@ -1,9 +1,9 @@
 [submodule "etabs"]
 	path = etabs
-	url = https://github.com/mincrmatt12/DaddyExcel.git
+	url = ssh://git@github.com/mincrmatt12/DaddyExcel.git
 [submodule "calendar"]
 	path = calendar
-	url = https://github.com/mincrmatt12/crappycalendar.git
+	url = ssh://git@github.com/mincrmatt12/crappycalendar.git
 [submodule "pycon"]
 	path = pycon
-	url = https://github.com/mincrmatt12/PyCONCa2017.git
+	url = ssh://git@github.com/mincrmatt12/PyCONCa2017.git
